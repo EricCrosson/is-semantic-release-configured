@@ -6,6 +6,7 @@ authors = ["Eric Crosson <eric.s.crosson@utexas.edu>"]
 license = "MIT OR Apache-2.0"
 description = "A CLI to test if semantic-release is configured"
 readme = "README.md"
+repository = "https://github.com/EricCrosson/is-semantic-release-configured"
 homepage = "https://github.com/EricCrosson/is-semantic-release-configured"
 keywords = ["cli", "semantic-release"]
 categories = ["command-line-utilities"]
