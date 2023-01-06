@@ -1,3 +1,10 @@
+## [1.0.1](https://github.com/EricCrosson/is-semantic-release-configured/compare/v1.0.0...v1.0.1) (2023-01-06)
+
+
+### Bug Fixes
+
+* add repository to cargo manifest ([2c6b524](https://github.com/EricCrosson/is-semantic-release-configured/commit/2c6b5249e20e0c1fe67253ab981fd88930fa47cc))
+
 # 1.0.0 (2023-01-06)
 
 
