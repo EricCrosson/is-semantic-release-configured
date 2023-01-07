@@ -15,11 +15,12 @@ exclude = [
   "/.github",
   "/.gitignore",
   "/.releaserc.json",
+  "/assets",
   "/CHANGELOG.md",
   "/flake.{lock,nix}",
+  "/node_modules",
   "/package*.json",
-  "/rust-toolchain",
-  "/assets"
+  "/rust-toolchain"
 ]
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
