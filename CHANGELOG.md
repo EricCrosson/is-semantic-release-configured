@@ -1,3 +1,10 @@
+## [1.0.4](https://github.com/EricCrosson/is-semantic-release-configured/compare/v1.0.3...v1.0.4) (2023-01-07)
+
+
+### Bug Fixes
+
+* **release:** force new release for major and minor git tags ([cf77333](https://github.com/EricCrosson/is-semantic-release-configured/commit/cf7733315b5276ec9211c186221fb2c3280923ee))
+
 ## [1.0.3](https://github.com/EricCrosson/is-semantic-release-configured/compare/v1.0.2...v1.0.3) (2023-01-07)
 
 
