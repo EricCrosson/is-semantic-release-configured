@@ -32,12 +32,6 @@
       # Common derivation arguments used for all builds
       commonArgs = {
         src = craneLib.cleanCargoSource ./.;
-
-        # Add extra inputs here or any other derivation settings
-        # doCheck = true;
-        buildInputs = with pkgs; [
-          nodePackages.typescript
-        ];
       };
 
       # Build *just* the cargo dependencies, so we can reuse
@@ -92,10 +86,8 @@
       };
       devShells = {
         default = nixpkgs.legacyPackages.${system}.mkShell {
-          buildInputs = commonArgs.buildInputs;
           nativeBuildInputs = [
             pkgs.cargo
-            pkgs.nodejs
           ];
 
           inherit (self.checks.${system}.pre-commit-check) shellHook;
