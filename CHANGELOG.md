@@ -1,3 +1,10 @@
+## [1.0.3](https://github.com/EricCrosson/is-semantic-release-configured/compare/v1.0.2...v1.0.3) (2023-01-07)
+
+
+### Bug Fixes
+
+* **release:** avoid publishing node_modules ([d2287ec](https://github.com/EricCrosson/is-semantic-release-configured/commit/d2287ec5f62edeeb44ff13ffd75c6c916e6d4c22))
+
 ## [1.0.2](https://github.com/EricCrosson/is-semantic-release-configured/compare/v1.0.1...v1.0.2) (2023-01-07)
 
 
