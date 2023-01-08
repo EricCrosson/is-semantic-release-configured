@@ -1,5 +1,9 @@
 # is-semantic-release-configured
 
+[![Build Status]](https://github.com/EricCrosson/is-semantic-release-configured/actions/workflows/release.yml)
+
+[build status]: https://github.com/EricCrosson/is-semantic-release-configured/actions/workflows/release.yml/badge.svg?event=push
+
 **is-semantic-release-configured** is a small binary to test if [semantic-release] is configured.
 
 This can be used to manage control flow in shell scripts.
