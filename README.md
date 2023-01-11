@@ -13,3 +13,9 @@ This can be used to manage control flow in shell scripts.
 > configuration will be rejected by semantic-release.
 
 [semantic-release]: https://github.com/semantic-release/semantic-release
+
+## Example
+
+See [EricCrosson/rust-action] for an example program that uses **is-semantic-release-configured**.
+
+[ericcrosson/rust-action]: https://github.com/EricCrosson/rust-action/blob/8ef19fea9a59a62b8cc783da755e4c86e6062131/semantic-release-library/action.yml#L78
