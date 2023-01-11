@@ -1,3 +1,11 @@
+## [1.0.5](https://github.com/EricCrosson/is-semantic-release-configured/compare/v1.0.4...v1.0.5) (2023-01-11)
+
+
+### Bug Fixes
+
+* **docs:** add example use to readme ([beafb1f](https://github.com/EricCrosson/is-semantic-release-configured/commit/beafb1fa312da057bfff695b109a15c68293eeaf))
+* publish license to crates.io ([a434b25](https://github.com/EricCrosson/is-semantic-release-configured/commit/a434b25ef06daac1ffacde88ab98787334fc7cbb))
+
 ## [1.0.4](https://github.com/EricCrosson/is-semantic-release-configured/compare/v1.0.3...v1.0.4) (2023-01-07)
 
 
