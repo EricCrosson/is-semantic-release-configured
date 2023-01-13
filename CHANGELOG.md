@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/EricCrosson/is-semantic-release-configured/compare/v1.0.5...v1.1.0) (2023-01-13)
+
+
+### Features
+
+* add --help, --version, --root flags ([5700a6d](https://github.com/EricCrosson/is-semantic-release-configured/commit/5700a6dd9683e14d12c5d00ace3873788ca1e829))
+
 ## [1.0.5](https://github.com/EricCrosson/is-semantic-release-configured/compare/v1.0.4...v1.0.5) (2023-01-11)
 
 
