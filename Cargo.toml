@@ -13,21 +13,16 @@ categories = ["command-line-utilities"]
 exclude = [
   "/.envrc",
   "/.github",
-  "/.gitignore",
-  "/.releaserc.json",
-  "/assets",
   "/CHANGELOG.md",
-  "/flake.{lock,nix}",
-  "/node_modules",
-  "/package*.json",
-  "/rust-toolchain"
+  "/flake.{lock,nix}"
 ]
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
-anyhow = "=1.0.68"
-# clap = { version = "=4.0.32", features = ["cargo", "derive", "wrap_help"] }
+clap = { version = "=4.0.32", features = ["cargo", "derive", "wrap_help"] }
+env_logger = { version = "0.10.0", default-features = false }
+find-semantic-release-config = "=1.0.3"
 serde_json = "=1.0.91"
 
 [profile.release]
