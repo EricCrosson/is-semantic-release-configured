@@ -16,6 +16,6 @@ This can be used to manage control flow in shell scripts.
 
 ## Example
 
-See [EricCrosson/rust-action] for an example program that uses **is-semantic-release-configured**.
+See [semantic-release-action/rust] for an example program that uses **is-semantic-release-configured**.
 
-[ericcrosson/rust-action]: https://github.com/EricCrosson/rust-action/blob/8ef19fea9a59a62b8cc783da755e4c86e6062131/semantic-release-library/action.yml#L78
+[semantic-release-action/rust]: https://github.com/semantic-release-action/rust/blob/d272c92ccc139c50a60bb537443e124f6ef88394/semantic-release-library/action.yml#L82
