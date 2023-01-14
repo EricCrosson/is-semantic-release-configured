@@ -1,3 +1,10 @@
+## [1.1.1](https://github.com/EricCrosson/is-semantic-release-configured/compare/v1.1.0...v1.1.1) (2023-01-14)
+
+
+### Bug Fixes
+
+* **deps:** pin rust crate env_logger to =0.10.0 ([9da7d46](https://github.com/EricCrosson/is-semantic-release-configured/commit/9da7d462957562d5650cc301025a62746d06109e))
+
 # [1.1.0](https://github.com/EricCrosson/is-semantic-release-configured/compare/v1.0.5...v1.1.0) (2023-01-13)
 
 
