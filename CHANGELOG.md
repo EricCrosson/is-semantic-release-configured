@@ -1,3 +1,10 @@
+## [1.1.3](https://github.com/EricCrosson/is-semantic-release-configured/compare/v1.1.2...v1.1.3) (2023-01-14)
+
+
+### Bug Fixes
+
+* **deps:** migrate to semantic-release-action/next-release-version ([5baed76](https://github.com/EricCrosson/is-semantic-release-configured/commit/5baed763ffac390569943ea4beae3415be82553b))
+
 ## [1.1.2](https://github.com/EricCrosson/is-semantic-release-configured/compare/v1.1.1...v1.1.2) (2023-01-14)
 
 
