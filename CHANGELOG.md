@@ -1,3 +1,10 @@
+## [1.1.5](https://github.com/EricCrosson/is-semantic-release-configured/compare/v1.1.4...v1.1.5) (2023-01-14)
+
+
+### Bug Fixes
+
+* **docs:** fix hyperlink ([d12e8d0](https://github.com/EricCrosson/is-semantic-release-configured/commit/d12e8d06f627fe1b73395bd4ace903a172067dce))
+
 ## [1.1.4](https://github.com/EricCrosson/is-semantic-release-configured/compare/v1.1.3...v1.1.4) (2023-01-14)
 
 
