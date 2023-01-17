@@ -15,7 +15,5 @@ on:
 jobs:
   release:
     uses: semantic-release-action/rust/.github/workflows/release-binary.yml@v4
-    with:
-      binary-name: is-semantic-release-configured
     secrets:
       cargo-registry-token: ${{ secrets.CARGO_REGISTRY_TOKEN }}
