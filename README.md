@@ -1,7 +1,7 @@
 # is-semantic-release-configured
 
 [![Build Status]](https://github.com/EricCrosson/is-semantic-release-configured/actions/workflows/release.yml)
-[![Number of downloads]]()
+[![Number of downloads]](https://github.com/EricCrosson/is-semantic-release-configured/releases)
 
 [build status]: https://github.com/EricCrosson/is-semantic-release-configured/actions/workflows/release.yml/badge.svg?event=push
 [number of downloads]: https://img.shields.io/github/downloads/EricCrosson/is-semantic-release-configured/total.svg
