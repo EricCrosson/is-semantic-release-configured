@@ -1,3 +1,10 @@
+## [1.1.11](https://github.com/EricCrosson/is-semantic-release-configured/compare/v1.1.10...v1.1.11) (2023-02-26)
+
+
+### Bug Fixes
+
+* **deps:** update rust crate find-semantic-release-config to v1.0.5 ([707152b](https://github.com/EricCrosson/is-semantic-release-configured/commit/707152b72e84ab8fada2ac1c2dbbe7415d690ae4))
+
 ## [1.1.10](https://github.com/EricCrosson/is-semantic-release-configured/compare/v1.1.9...v1.1.10) (2023-02-16)
 
 
