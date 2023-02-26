@@ -90,13 +90,12 @@ dependencies = [
 
 [[package]]
 name = "find-semantic-release-config"
-version = "1.0.4"
+version = "1.0.5"
 source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "bb3f35c683ca88c7f3b413e76696d27e4ec7778dcc52fe29c9e0a2f408a8b55e"
+checksum = "e1c820054899e8c714f6064d3b0a3f0d20fe23491839a4499d65003ec056319a"
 dependencies = [
  "log",
  "serde_json",
- "thiserror",
 ]
 
 [[package]]
@@ -298,26 +297,6 @@ checksum = "cb20089a8ba2b69debd491f8d2d023761cbf196e999218c591fa1e7e15a21907"
 dependencies = [
  "rustix",
  "windows-sys",
-]
-
-[[package]]
-name = "thiserror"
-version = "1.0.38"
-source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "6a9cd18aa97d5c45c6603caea1da6628790b37f7a34b6ca89522331c5180fed0"
-dependencies = [
- "thiserror-impl",
-]
-
-[[package]]
-name = "thiserror-impl"
-version = "1.0.38"
-source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "1fb327af4685e4d03fa8cbcf1716380da910eeb2bb8be417e7f9fd3fb164f36f"
-dependencies = [
- "proc-macro2",
- "quote",
- "syn",
 ]
 
 [[package]]
