@@ -1,3 +1,10 @@
+# [1.2.0](https://github.com/EricCrosson/is-semantic-release-configured/compare/v1.1.27...v1.2.0) (2023-05-13)
+
+
+### Features
+
+* use little-anyhow ([5f0cbac](https://github.com/EricCrosson/is-semantic-release-configured/commit/5f0cbaca25509be13c43a04d4992d84d1502779f))
+
 ## [1.1.27](https://github.com/EricCrosson/is-semantic-release-configured/compare/v1.1.26...v1.1.27) (2023-05-03)
 
 
