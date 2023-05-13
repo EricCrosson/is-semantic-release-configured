@@ -9,10 +9,11 @@
 //! it does not validate the content. This tool does not care if your
 //! configuration will be rejected by semantic-release.
 
-use std::error::Error;
 use std::path::PathBuf;
 
 use clap::Parser;
+
+mod little_anyhow;
 
 use find_semantic_release_config::find_semantic_release_configuration;
 
@@ -24,7 +25,7 @@ struct Cli {
     root: PathBuf,
 }
 
-fn main() -> Result<(), Box<dyn Error>> {
+fn main() -> Result<(), little_anyhow::Error> {
     env_logger::Builder::from_env(env_logger::Env::default().default_filter_or("warn")).init();
 
     let cli = Cli::parse();
