@@ -182,7 +182,7 @@ dependencies = [
 
 [[package]]
 name = "is-semantic-release-configured"
-version = "1.2.14"
+version = "1.2.15"
 dependencies = [
  "clap",
  "env_logger",
