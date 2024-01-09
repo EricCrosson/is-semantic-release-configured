@@ -1,3 +1,10 @@
+## [1.2.50](https://github.com/EricCrosson/is-semantic-release-configured/compare/v1.2.49...v1.2.50) (2024-01-09)
+
+
+### Bug Fixes
+
+* **ci:** empty commit to force a release ([d2cdd7e](https://github.com/EricCrosson/is-semantic-release-configured/commit/d2cdd7e54aa530108b5f11477888bd280fc452f4))
+
 ## [1.2.49](https://github.com/EricCrosson/is-semantic-release-configured/compare/v1.2.48...v1.2.49) (2024-01-09)
 
 
