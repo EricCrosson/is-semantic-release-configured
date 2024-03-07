@@ -1,3 +1,10 @@
+## [1.2.64](https://github.com/EricCrosson/is-semantic-release-configured/compare/v1.2.63...v1.2.64) (2024-03-07)
+
+
+### Bug Fixes
+
+* **deps:** update rust crate clap to v4.5.2 ([60e33c5](https://github.com/EricCrosson/is-semantic-release-configured/commit/60e33c5bded9d2d963a6228613211e160f516b27))
+
 ## [1.2.63](https://github.com/EricCrosson/is-semantic-release-configured/compare/v1.2.62...v1.2.63) (2024-03-06)
 
 
