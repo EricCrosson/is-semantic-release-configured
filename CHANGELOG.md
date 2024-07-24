@@ -1,3 +1,10 @@
+## [1.2.78](https://github.com/EricCrosson/is-semantic-release-configured/compare/v1.2.77...v1.2.78) (2024-07-24)
+
+
+### Bug Fixes
+
+* **deps:** update rust crate env_logger to v0.11.4 ([5620ed4](https://github.com/EricCrosson/is-semantic-release-configured/commit/5620ed4add3034fb84171881b7925e336862360b))
+
 ## [1.2.77](https://github.com/EricCrosson/is-semantic-release-configured/compare/v1.2.76...v1.2.77) (2024-07-24)
 
 
