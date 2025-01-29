@@ -1,3 +1,16 @@
+## [1.2.104](https://github.com/EricCrosson/is-semantic-release-configured/compare/v1.2.103...v1.2.104) (2025-01-29)
+
+
+### Bug Fixes
+
+* **deps:** update rust crate clap to v4.5.24 ([f65305b](https://github.com/EricCrosson/is-semantic-release-configured/commit/f65305b7c6c74fad51375b621ada6043195cff70))
+* **deps:** update rust crate clap to v4.5.26 ([fa067c3](https://github.com/EricCrosson/is-semantic-release-configured/commit/fa067c3a9306a893f5b39efcd1dd1d033362f3f8))
+* **deps:** update rust crate clap to v4.5.27 ([b96df73](https://github.com/EricCrosson/is-semantic-release-configured/commit/b96df735f853d9ef34a49f96b03f0f5c3a954a48))
+* **deps:** update rust crate serde_json to v1.0.135 ([97d8b66](https://github.com/EricCrosson/is-semantic-release-configured/commit/97d8b662472de43b5c887a7d0a1fedff2c4eb338))
+* **deps:** update rust crate serde_json to v1.0.136 ([459a732](https://github.com/EricCrosson/is-semantic-release-configured/commit/459a7326fbbfd6c8c59c81c2a3947d1417b401dd))
+* **deps:** update rust crate serde_json to v1.0.137 ([7f53090](https://github.com/EricCrosson/is-semantic-release-configured/commit/7f5309077d95a5a0338197918dc1e5e4328c6a4a))
+* **deps:** update rust crate serde_json to v1.0.138 ([8ace7c5](https://github.com/EricCrosson/is-semantic-release-configured/commit/8ace7c54b1d048b09653ae943fecf7150a82e3e0))
+
 ## [1.2.103](https://github.com/EricCrosson/is-semantic-release-configured/compare/v1.2.102...v1.2.103) (2024-12-22)
 
 
