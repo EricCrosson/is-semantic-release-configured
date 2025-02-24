@@ -26,8 +26,6 @@ struct Cli {
 }
 
 fn main() -> Result<(), little_anyhow::Error> {
-    env_logger::Builder::from_env(env_logger::Env::default().default_filter_or("warn")).init();
-
     let cli = Cli::parse();
 
     let is_configured = find_semantic_release_configuration(&cli.root)?;
