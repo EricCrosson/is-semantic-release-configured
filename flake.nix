@@ -4,12 +4,9 @@
     flake-utils.url = "github:numtide/flake-utils";
     crane = {
       url = "github:ipetkov/crane";
-      inputs.nixpkgs.follows = "nixpkgs";
-      inputs.flake-utils.follows = "flake-utils";
     };
     pre-commit-hooks = {
       url = "github:cachix/pre-commit-hooks.nix";
-      inputs.flake-utils.follows = "flake-utils";
       inputs.nixpkgs.follows = "nixpkgs";
     };
   };
@@ -27,7 +24,7 @@
         inherit system;
       };
 
-      craneLib = crane.lib.${system};
+      craneLib = crane.mkLib pkgs;
 
       # Common derivation arguments used for all builds
       commonArgs = {
