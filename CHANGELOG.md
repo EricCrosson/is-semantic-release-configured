@@ -1,3 +1,10 @@
+## [1.2.110](https://github.com/EricCrosson/is-semantic-release-configured/compare/v1.2.109...v1.2.110) (2025-03-04)
+
+
+### Bug Fixes
+
+* **deps:** update rust crate serde_json to v1.0.140 ([ff8b02e](https://github.com/EricCrosson/is-semantic-release-configured/commit/ff8b02e72e8113a2b322b7b3851b9802891006cc))
+
 ## [1.2.109](https://github.com/EricCrosson/is-semantic-release-configured/compare/v1.2.108...v1.2.109) (2025-02-25)
 
 
