@@ -19,7 +19,7 @@ exclude = [
 [dependencies]
 clap = { version = "=4.5.45", features = ["cargo", "derive", "wrap_help"] }
 find-semantic-release-config = "=1.0.8"
-serde_json = "=1.0.142"
+serde_json = "=1.0.143"
 
 [profile.release]
 lto = true
