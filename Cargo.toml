@@ -17,7 +17,7 @@ exclude = [
 ]
 
 [dependencies]
-clap = { version = "=4.5.59", features = ["cargo", "derive", "wrap_help"] }
+clap = { version = "=4.5.60", features = ["cargo", "derive", "wrap_help"] }
 find-semantic-release-config = "=1.0.8"
 serde_json = "=1.0.149"
 
